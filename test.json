@@ -1,0 +1,11 @@
+{
+  "nodes": [
+    {"id": "Word", "group": 1},
+    {"id": "Try", "group": 2},
+    {"id": "It", "group": 3},
+  ],
+  "links": [
+    {"source": "Word", "target": "Try", "value": 1},
+    {"source": "Try", "target": "It", "value": 8},
+  ]
+}
